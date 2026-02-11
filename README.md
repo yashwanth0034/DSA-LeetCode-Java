@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0001-two-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,8 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0088-merge-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
