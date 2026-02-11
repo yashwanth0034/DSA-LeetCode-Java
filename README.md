@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0189-rotate-array) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -71,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0238-product-of-array-except-self) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
