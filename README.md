@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0013-roman-to-integer) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0380-insert-delete-getrandom-o1) |
+| [3713-longest-balanced-substring-i](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/3713-longest-balanced-substring-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0274-h-index) |
+| [3713-longest-balanced-substring-i](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/3713-longest-balanced-substring-i) |
 ## Design
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0392-is-subsequence) |
+| [3713-longest-balanced-substring-i](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/3713-longest-balanced-substring-i) |
 ## Trie
 |  |
 | ------- |
@@ -127,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Enumeration
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
