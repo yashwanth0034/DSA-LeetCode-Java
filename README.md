@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0045-jump-game-ii) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
