@@ -1,0 +1,32 @@
+import java.util.*;
+
+class Solution {
+    public boolean isValidSudoku(char[][] board) {
+
+        HashSet<String> seen = new HashSet<>();
+
+        for (int row = 0; row < 9; row++) {
+            for (int col = 0; col < 9; col++) {
+
+                char num = board[row][col];
+
+                // Skip empty cells
+                if (num == '.') continue;
+
+                // Create unique keys for row, col, box
+                String rowKey = num + " in row " + row;
+                String colKey = num + " in col " + col;
+                String boxKey = num + " in box " + (row / 3 * 3 + col / 3);
+
+                // If already exists → invalid
+                if (!seen.add(rowKey) ||
+                    !seen.add(colKey) ||
+                    !seen.add(boxKey)) {
+                    return false;
+                }
+            }
+        }
+
+        return true;
+    }
+}
