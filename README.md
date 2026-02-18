@@ -149,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0036-valid-sudoku) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0693-binary-number-with-alternating-bits](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
