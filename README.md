@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0380-insert-delete-getrandom-o1) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0076-minimum-window-substring) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0380-insert-delete-getrandom-o1) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3713-longest-balanced-substring-i](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/3713-longest-balanced-substring-i) |
 ## Two Pointers
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0274-h-index) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3713-longest-balanced-substring-i](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/3713-longest-balanced-substring-i) |
 ## Design
 |  |
