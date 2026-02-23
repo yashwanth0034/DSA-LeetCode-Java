@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0380-insert-delete-getrandom-o1) |
+| [0812-largest-triangle-area](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0812-largest-triangle-area) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0380-insert-delete-getrandom-o1) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0812-largest-triangle-area](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0812-largest-triangle-area) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
