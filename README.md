@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0076-minimum-window-substring) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0380-insert-delete-getrandom-o1) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3713-longest-balanced-substring-i](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/3713-longest-balanced-substring-i) |
 ## Two Pointers
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0165-compare-version-numbers) |
 | [0392-is-subsequence](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0696-count-binary-substrings) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3713-longest-balanced-substring-i](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/3713-longest-balanced-substring-i) |
 ## Trie
 |  |
@@ -170,4 +172,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
