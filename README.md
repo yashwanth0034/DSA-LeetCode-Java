@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0380-insert-delete-getrandom-o1) |
 | [0812-largest-triangle-area](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0812-largest-triangle-area) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0380-insert-delete-getrandom-o1) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0812-largest-triangle-area](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0812-largest-triangle-area) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0289-game-of-life) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -220,4 +223,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/2221-find-triangular-sum-of-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
