@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0380-insert-delete-getrandom-o1) |
 | [0812-largest-triangle-area](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0812-largest-triangle-area) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0274-h-index) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Math
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0383-ransom-note) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3713-longest-balanced-substring-i](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/3713-longest-balanced-substring-i) |
 ## Design
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Rolling Hash
 |  |
