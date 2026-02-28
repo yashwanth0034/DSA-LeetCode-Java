@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0812-largest-triangle-area) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3100-water-bottles-ii](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/3100-water-bottles-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3100-water-bottles-ii](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/3100-water-bottles-ii) |
 ## Binary Search
 |  |
 | ------- |
