@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0076-minimum-window-substring) |
+| [0202-happy-number](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0290-word-pattern) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0696-count-binary-substrings) |
 ## Sorting
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0380-insert-delete-getrandom-o1) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0812-largest-triangle-area](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0812-largest-triangle-area) |
