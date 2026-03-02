@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0289-game-of-life) |
