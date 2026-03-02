@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/yashwanth0034/DSA-LeetCode-Java/tree/master/0274-h-index) |
